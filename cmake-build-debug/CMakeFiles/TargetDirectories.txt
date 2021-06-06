@@ -1,0 +1,3 @@
+/home/sizen/CLionProjects/pose_transfprm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/sizen/CLionProjects/pose_transfprm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sizen/CLionProjects/pose_transfprm/cmake-build-debug/CMakeFiles/pose_transfprm.dir

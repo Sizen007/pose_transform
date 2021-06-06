@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/pose_transfprm.dir/main.cpp.o  -o pose_transfprm 
